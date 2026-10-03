@@ -1,0 +1,62 @@
+html, body {
+    margin: 0;
+    width: 100%;
+    min-height: 100%;
+}
+
+body {
+    min-height: 100vh;
+
+    /* background-image: url("WebBackground.jpg"); */
+    /* background-image: url("6057555.jpg"); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.mybutton {
+    text-align:center;
+    display: block;
+    justify-content: center;
+    margin: 10px auto;
+    background-color:rgb(0, 255, 0);
+    color: black;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.mybutton1 {
+    text-align:center;
+    display: block;
+    justify-content: center;
+    margin: 10px auto;
+    background-color:rgb(0, 255, 0);
+    color: navy;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.mybutton2 {
+    text-align:center;
+    display: block;
+    justify-content: center;
+    margin: 10px auto;
+    background-color:rgb(0, 255, 0);
+    color: blue;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.homepage {
+    background-image: url("WebBackground.jpg");
+}
+
+.cspage {
+    background-image: url("6057555.jpg");
+}
