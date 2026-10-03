@@ -72,3 +72,17 @@ h6{
 .cspage {
     background-image: url("6057555.jpg");
 }
+
+.WorkExpPg {
+    background-image: url("WebBackWExp.png");
+}
+
+.OtherPg {
+    background-image: url("WebBackVol.png");
+}
+
+.text {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    /*padding: 10px;*/
+}
