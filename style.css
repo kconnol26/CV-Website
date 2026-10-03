@@ -14,6 +14,18 @@ body {
     background-repeat: no-repeat;
 }
 
+h4{
+    margin: 5px auto;
+}
+
+h5{
+    margin: 10px auto;
+}
+
+h6{
+    margin: 10px auto;
+}
+
 .mybutton {
     text-align:center;
     display: block;
